@@ -1,4 +1,4 @@
-package com.fileprocess.service;
+package com.fileprocess.main;
 
 import com.fileprocess.helper.ApplicationContext;
 import com.fileprocess.threads.FileProcessCheck;

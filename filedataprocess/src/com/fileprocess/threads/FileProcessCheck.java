@@ -12,7 +12,7 @@ public class FileProcessCheck extends FileHelper implements Runnable {
 			File listOfFiles[] = getListOfFiles("D:/Ankush Zod/inputfiles");
 			
 			if(listOfFiles.length == 0){
-				System.out.println("----Empty Directory----");
+				System.out.println("No files in directory");
 				return;
 			}
 			
@@ -27,7 +27,6 @@ public class FileProcessCheck extends FileHelper implements Runnable {
 						
 					}
 				} catch (ParseException e) {
-					// TODO Auto-generated catch block
 					e.printStackTrace();
 				}
 			}
