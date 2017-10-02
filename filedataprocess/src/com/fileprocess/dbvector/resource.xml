@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exhibit>
+    <input-file name="a.CSV" time="14:05"></input-file>
+    <input-file name="a.txt" time="23:53:00"></input-file>
+</exhibit>
